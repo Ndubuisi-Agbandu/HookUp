@@ -1,3 +1,5 @@
+### Please note that this project is still using the development build of react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
